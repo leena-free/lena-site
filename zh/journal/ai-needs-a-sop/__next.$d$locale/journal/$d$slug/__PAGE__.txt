@@ -1,0 +1,30 @@
+3:"$Sreact.fragment"
+4:"/lena-site/_next/static/chunks/0umf92h1sb77c.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+d:"/lena-site/_next/static/chunks/20pl832hzi9jf.js"
+e:I[22016,["$d"],""]
+f:I[97367,["$4"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$4"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$4"],"$15"]
+17:I[27201,["$4"],"IconMark"]
+8:X
+8:C
+9:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","article",null,{"className":"section","children":["$","div",null,{"className":"shell","children":["$","div",null,{"className":"article","children":[["$","header",null,{"className":"article__head","children":[["$","p",null,{"className":"eyebrow eyebrow--accent","style":{"marginBottom":18},"children":"AI 实践"}],["$","h1",null,{"className":"display display--md","style":{"marginBottom":18},"children":"AI 需要一份 SOP"}],["$","p",null,{"style":{"color":"var(--ink-soft)","fontSize":"1.05rem","maxWidth":"34ch","margin":"0 auto 26px"},"children":"五个场景跑通之后，真正的难题才开始出现。"}],["$","div",null,{"className":"byline","children":[["$","span",null,{"children":"2026-10-08"}],["$","span",null,{"children":[5," ","分钟"]}]]}]]}],["$","div",null,{"className":"article__body dropcap","children":[["$","p","0",{"children":"我们现在有五个跑通的 AI 场景：口播脚本批量生成、AI 视频四段式分镜、抖音评论意向分析、102 账号矩阵混剪、例会数据复盘。每一项都能出结果。"}],["$","p","1",{"children":"然后我写了今年最难看的一份自评：这些方法全都依赖我一个人的操作经验，还没有变成可文档化、可传承的标准。人员一变动，知识就断层。"}],["$","h2","2",{"children":"个人工具和团队资产的区别"}],["$","p","3",{"children":"个人工具的判断依据是「我能不能做出来」，团队资产的判断依据是「别人照着能不能做出来」。前者只需要一次成功，后者需要所有条件都被写下来：模型选哪个、参数是什么、失败怎么兜、结果谁来验。"}],["$","ul","4",{"children":[["$","li","写下来，才算存在",{"children":"写下来，才算存在"}],["$","li","每一步都要有兜底方案，不能靠「我一般都知道」",{"children":"每一步都要有兜底方案，不能靠「我一般都知道」"}],["$","li","结果必须能被复核，不能只靠「看起来对」",{"children":"结果必须能被复核，不能只靠「看起来对」"}],["$","li","半年后我自己都忘了，才算真的沉淀了",{"children":"半年后我自己都忘了，才算真的沉淀了"}]]}],["$","blockquote","5",{"children":"从个人工具升级到团队资产，这句话我写下来的时候，比任何一次指标超额都更让我兴奋。"}]]}],["$","div",null,{"style":{"marginTop":"clamp(40px,6vw,72px)","paddingTop":26,"borderTop":"1px solid var(--rule)"},"children":["$","$Le",null,{"href":"/zh/journal","className":"eyebrow","style":{"color":"var(--ink)"},"children":["← ","返回手记"]}]}]]}]}]}],null,["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$9"}}]]
+a:[["children",{"s":{"n":"slug","t":"d","k":"ai-needs-a-sop","s":[]},"h":96,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
+2:[["children",{"s":"journal","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"zh","s":[]},"h":48,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"AI 需要一份 SOP — 李娜"}],["$","meta","1",{"name":"description","content":"五个场景跑通之后，真正的难题才开始出现。"}],["$","meta","2",{"name":"application-name","content":"李娜"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://leena-free.github.io/zh/"}],["$","link","5",{"rel":"alternate","hrefLang":"zh","href":"https://leena-free.github.io/zh/"}],["$","link","6",{"rel":"alternate","hrefLang":"en","href":"https://leena-free.github.io/en/"}],["$","meta","7",{"property":"og:title","content":"李娜 — 客户成功经理 · 私域运营 × 渠道新媒体营销"}],["$","meta","8",{"property":"og:description","content":"我在联想百应做客户成功，一边带着三百多家 IT 服务门店做私域沉淀，一边用 102 个短视频账号把加盟商一条条聊出来。FY26/27 上半年九项指标达成八项，新增客户做到目标的 129%。工作之外我写 AI 硅脑笔记、给咖啡厅做视觉，也运营一个户外徒步露营穿搭的账号。"}],["$","meta","9",{"property":"og:site_name","content":"李娜"}],["$","meta","10",{"property":"og:locale","content":"zh-CN"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary"}],["$","meta","13",{"name":"twitter:title","content":"李娜 — 客户成功经理 · 私域运营 × 渠道新媒体营销"}],["$","meta","14",{"name":"twitter:description","content":"我在联想百应做客户成功，一边带着三百多家 IT 服务门店做私域沉淀，一边用 102 个短视频账号把加盟商一条条聊出来。FY26/27 上半年九项指标达成八项，新增客户做到目标的 129%。工作之外我写 AI 硅脑笔记、给咖啡厅做视觉，也运营一个户外徒步露营穿搭的账号。"}],["$","link","15",{"rel":"icon","href":"/lena-site/icon.svg?icon.2oengkf4ofpt5.svg","sizes":"any","type":"image/svg+xml"}],["$","$L17","16",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@18","v":null,"s":"$9"}},"a":"$@19","u":"$@1a","b":"2pwTUV5xS3yAoWB-bhdun"}
+11:null
+1a:true
+9:300
+9:C
+19:0
+b:"$undefined"
+7:"$undefined"
+18:"$undefined"
+12:"$undefined"
